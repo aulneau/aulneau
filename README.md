@@ -1,5 +1,3 @@
-# Thomas Osmonson
-
 [![github followers](https://img.shields.io/github/followers/aulneau?style=social)](https://github.com/aulneau)
 [![twitter](https://img.shields.io/twitter/follow/aulneau_?style=social)](https://twitter.com/aulneau_)
 
